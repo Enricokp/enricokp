@@ -29,6 +29,7 @@ h2{
     top: 0px;
     left: 70%;
     font-size: 1.25em;
+    border: 1px solid black;
 }
 .c1{
     background-color: rgb(61, 61, 221);
